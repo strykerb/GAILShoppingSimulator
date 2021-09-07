@@ -1,0 +1,38 @@
+{
+    "Shopping": {
+        "checkpoints": [
+            {
+                "steps": 499977,
+                "file_path": "results\\ThreeShopper2\\Shopping\\Shopping-499977.onnx",
+                "reward": null,
+                "creation_time": 1629849069.3205972,
+                "auxillary_file_paths": [
+                    "results\\ThreeShopper2\\Shopping\\Shopping-499977.pt"
+                ]
+            },
+            {
+                "steps": 500041,
+                "file_path": "results\\ThreeShopper2\\Shopping\\Shopping-500041.onnx",
+                "reward": null,
+                "creation_time": 1629849069.361488,
+                "auxillary_file_paths": [
+                    "results\\ThreeShopper2\\Shopping\\Shopping-500041.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500041,
+            "file_path": "results\\ThreeShopper2\\Shopping.onnx",
+            "reward": null,
+            "creation_time": 1629849069.361488,
+            "auxillary_file_paths": [
+                "results\\ThreeShopper2\\Shopping\\Shopping-500041.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Shopping": {
+        "checkpoints": [
+            {
+                "steps": 1138,
+                "file_path": "results\\SingleObstacleShopper13\\Shopping\\Shopping-1138.onnx",
+                "reward": -1.0010000467300415,
+                "creation_time": 1629768071.411343,
+                "auxillary_file_paths": [
+                    "results\\SingleObstacleShopper13\\Shopping\\Shopping-1138.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1138,
+            "file_path": "results\\SingleObstacleShopper13\\Shopping.onnx",
+            "reward": -1.0010000467300415,
+            "creation_time": 1629768071.411343,
+            "auxillary_file_paths": [
+                "results\\SingleObstacleShopper13\\Shopping\\Shopping-1138.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

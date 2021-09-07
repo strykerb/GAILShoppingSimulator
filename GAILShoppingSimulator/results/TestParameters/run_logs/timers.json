@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1629667462",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\stryk\\Desktop\\iSTAR\\ML-Agents\\venv\\Scripts\\mlagents-learn config\\moveToGoal.yaml --run-id=TestParameters",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.0+cu110",
+        "numpy_version": "1.21.1",
+        "end_time_seconds": "1629667523"
+    },
+    "total": 60.913985499999995,
+    "count": 1,
+    "self": 0.007097599999994486,
+    "children": {
+        "run_training.setup": {
+            "total": 0.07107440000000009,
+            "count": 1,
+            "self": 0.07107440000000009
+        },
+        "TrainerController.start_learning": {
+            "total": 60.8358135,
+            "count": 1,
+            "self": 0.00010679999999751999,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.835694000000004,
+                    "count": 1,
+                    "self": 60.835694000000004
+                },
+                "TrainerController._save_models": {
+                    "total": 1.2699999999199463e-05,
+                    "count": 1,
+                    "self": 1.2699999999199463e-05
+                }
+            }
+        }
+    }
+}

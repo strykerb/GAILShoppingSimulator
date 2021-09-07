@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1629770657",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\stryk\\Desktop\\iSTAR\\ML-Agents\\venv\\Scripts\\mlagents-learn config\\shopper.yaml --run-id=SingleObstacleShopper17",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.0+cu110",
+        "numpy_version": "1.21.1",
+        "end_time_seconds": "1629770718"
+    },
+    "total": 60.8987872,
+    "count": 1,
+    "self": 0.007424400000004994,
+    "children": {
+        "run_training.setup": {
+            "total": 0.07215830000000001,
+            "count": 1,
+            "self": 0.07215830000000001
+        },
+        "TrainerController.start_learning": {
+            "total": 60.8192045,
+            "count": 1,
+            "self": 0.00012169999999400716,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.819055500000005,
+                    "count": 1,
+                    "self": 60.819055500000005
+                },
+                "TrainerController._save_models": {
+                    "total": 2.729999999928623e-05,
+                    "count": 1,
+                    "self": 2.729999999928623e-05
+                }
+            }
+        }
+    }
+}
