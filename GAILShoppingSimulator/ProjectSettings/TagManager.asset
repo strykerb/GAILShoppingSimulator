@@ -15,71 +15,20 @@ TagManager:
   - switchOff
   - goalA
   - goalB
-  - goalC
   - basket
-  - greenball
-  - greencapsule
-  - greencross
-  - greencube
-  - greencylinder
-  - greentriangle
-  - blueball
-  - bluecapsule
-  - bluecross
-  - bluecube
-  - bluecylinder
-  - bluetriangle
-  - blackball
-  - blackcapsule
-  - blackcross
-  - blackcube
-  - blackcylinder
-  - blacktriangle
-  - orangeball
-  - orangecapsule
-  - orangecross
-  - orangecube
-  - orangecylinder
-  - orangetriangle
-  - pinkball
-  - pinkcapsule
-  - pinkcross
-  - pinkcube
-  - pinkcylinder
-  - pinktriangle
-  - purpleball
-  - purplecapsule
-  - purplecross
-  - purplecube
-  - purplecylinder
-  - purpletriangle
-  - redball
-  - redcapsule
-  - redcross
-  - redcube
-  - redcylinder
-  - redtriangle
-  - tealball
-  - tealcapsule
-  - tealcross
-  - tealcube
-  - tealcylinder
-  - tealtriangle
-  - whiteball
-  - whitecapsule
-  - whitecross
-  - whitecube
-  - whitecylinder
-  - whitetriangle
-  - yellowball
-  - yellowcapsule
-  - yellowcross
-  - yellowcube
-  - yellowcylinder
-  - yellowtriangle
   - checkout
   - basketarea
   - shelf
+  - exit
+  - black
+  - blue
+  - green
+  - purple
+  - red
+  - goalC
+  - null
+  - goal2
+  - goal3
   layers:
   - Default
   - TransparentFX

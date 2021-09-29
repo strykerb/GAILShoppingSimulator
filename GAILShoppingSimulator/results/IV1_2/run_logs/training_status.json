@@ -1,0 +1,65 @@
+{
+    "Shopping": {
+        "checkpoints": [
+            {
+                "steps": 1499980,
+                "file_path": "results\\IV1_2\\Shopping\\Shopping-1499980.onnx",
+                "reward": null,
+                "creation_time": 1632548843.2170193,
+                "auxillary_file_paths": [
+                    "results\\IV1_2\\Shopping\\Shopping-1499980.pt"
+                ]
+            },
+            {
+                "steps": 1999948,
+                "file_path": "results\\IV1_2\\Shopping\\Shopping-1999948.onnx",
+                "reward": null,
+                "creation_time": 1632550170.2707236,
+                "auxillary_file_paths": [
+                    "results\\IV1_2\\Shopping\\Shopping-1999948.pt"
+                ]
+            },
+            {
+                "steps": 2499980,
+                "file_path": "results\\IV1_2\\Shopping\\Shopping-2499980.onnx",
+                "reward": null,
+                "creation_time": 1632551821.2051914,
+                "auxillary_file_paths": [
+                    "results\\IV1_2\\Shopping\\Shopping-2499980.pt"
+                ]
+            },
+            {
+                "steps": 2999948,
+                "file_path": "results\\IV1_2\\Shopping\\Shopping-2999948.onnx",
+                "reward": null,
+                "creation_time": 1632554006.7051113,
+                "auxillary_file_paths": [
+                    "results\\IV1_2\\Shopping\\Shopping-2999948.pt"
+                ]
+            },
+            {
+                "steps": 3001356,
+                "file_path": "results\\IV1_2\\Shopping\\Shopping-3001356.onnx",
+                "reward": null,
+                "creation_time": 1632554006.8646839,
+                "auxillary_file_paths": [
+                    "results\\IV1_2\\Shopping\\Shopping-3001356.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3001356,
+            "file_path": "results\\IV1_2\\Shopping.onnx",
+            "reward": null,
+            "creation_time": 1632554006.8646839,
+            "auxillary_file_paths": [
+                "results\\IV1_2\\Shopping\\Shopping-3001356.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

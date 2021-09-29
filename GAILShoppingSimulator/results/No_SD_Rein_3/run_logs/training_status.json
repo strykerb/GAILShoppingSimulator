@@ -1,0 +1,65 @@
+{
+    "Shopping": {
+        "checkpoints": [
+            {
+                "steps": 250059,
+                "file_path": "results\\No_SD_Rein_3\\Shopping\\Shopping-250059.onnx",
+                "reward": null,
+                "creation_time": 1632857889.3265128,
+                "auxillary_file_paths": [
+                    "results\\No_SD_Rein_3\\Shopping\\Shopping-250059.pt"
+                ]
+            },
+            {
+                "steps": 269963,
+                "file_path": "results\\No_SD_Rein_3\\Shopping\\Shopping-269963.onnx",
+                "reward": null,
+                "creation_time": 1632857998.9405594,
+                "auxillary_file_paths": [
+                    "results\\No_SD_Rein_3\\Shopping\\Shopping-269963.pt"
+                ]
+            },
+            {
+                "steps": 499982,
+                "file_path": "results\\No_SD_Rein_3\\Shopping\\Shopping-499982.onnx",
+                "reward": null,
+                "creation_time": 1632859038.3416908,
+                "auxillary_file_paths": [
+                    "results\\No_SD_Rein_3\\Shopping\\Shopping-499982.pt"
+                ]
+            },
+            {
+                "steps": 999990,
+                "file_path": "results\\No_SD_Rein_3\\Shopping\\Shopping-999990.onnx",
+                "reward": null,
+                "creation_time": 1632861540.762195,
+                "auxillary_file_paths": [
+                    "results\\No_SD_Rein_3\\Shopping\\Shopping-999990.pt"
+                ]
+            },
+            {
+                "steps": 1000054,
+                "file_path": "results\\No_SD_Rein_3\\Shopping\\Shopping-1000054.onnx",
+                "reward": null,
+                "creation_time": 1632861540.8185523,
+                "auxillary_file_paths": [
+                    "results\\No_SD_Rein_3\\Shopping\\Shopping-1000054.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000054,
+            "file_path": "results\\No_SD_Rein_3\\Shopping.onnx",
+            "reward": null,
+            "creation_time": 1632861540.8185523,
+            "auxillary_file_paths": [
+                "results\\No_SD_Rein_3\\Shopping\\Shopping-1000054.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
